@@ -1,0 +1,96 @@
+﻿
+.nav > li > a{
+    padding:20px 15px;
+}
+.navbar-inverse {
+    background-color: #00c6d7; /*#0FBA5A;*/
+    border-color: #00cc99;
+    color: white;
+    font-weight: bold;
+}
+.sub-heard-part{
+    border-bottom:1px solid #CCCCCC;
+}
+.outter-wp{
+    padding-top:0.5em;
+}
+
+
+
+
+
+.container{
+    padding:0px 0px;
+    margin:0px 0px;
+    max-width:none;
+    
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+/*.navbar>.container .navbar-brand{
+    margin-left:0px;
+}*/
+.navbar-header{
+    width:11%;
+}
+.navbar-header a {
+    color: white;
+}
+.searchform{
+    width:220px;
+    margin:0 20px;
+    float:left;
+    padding-top:14px;
+    position:relative;
+}
+.searchbox{
+    border-radius:999px;
+    border:none;
+    height:32px;
+    width:220px;
+    padding-left:20px;
+    padding-right:36px;
+    background:rgba(255,255,255,0.95);
+    color:#3736e3;
+    box-shadow:inset 0px 1px 0px #F1F0F1;
+}
+.searchbutton{
+    border:none;
+    color:rgba(0,0,0,0.5);
+    background:none;
+    position:absolute;
+    top:18px;
+    font-size:16px;
+    right:15px;
+    cursor:pointer;
+}
+.sidebar-open-button {
+    height: 60px;
+    font-size: 22px;
+    display: block;
+    width: 62px;
+    text-align: center;
+    float: left;
+    color: rgba(0,0,0,0.6);
+    padding-top: 19px;
+    border-right: 1px solid rgba(0,0,0,0.14);
+    z-index: 1;
+}
+.sidebar-open-button {
+    height: 60px;
+    font-size: 22px;
+    display: none;
+    width: 62px;
+    text-align: center;
+    float: left;
+    color: rgba(0,0,0,0.6);
+    padding-top: 19px;
+    border-right: 1px solid rgba(0,0,0,0.14);
+}
+
+
+
